@@ -1,11 +1,13 @@
 <div align="center"> 
 
 ## 👋 Hello, I'm Huzaifah!
-- 🎓 Pursuing UG in Computer Science with a focus on AI and Machine Learning.
-- 👨‍💻 Aspiring Gen AI Developer | MLOps Engineer.
- - Deep Learning & Neural Networks
-- MLOps tools like MLflow and DVC
 
+- 🎓 **Undergraduate in Computer Science** specializing in **AI and Machine Learning**
+- 👨‍💻 **Aspiring Gen AI Developer** | **MLOps Engineer**
+- 🚀 Passionate about **Deep Learning**, **Neural Networks**, and building scalable **MLOps pipelines**
+- 🛠️ Currently exploring **MLOps tools** like **MLflow** and more to streamline model deployment.
+
+---
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/huzaifah-27o3)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaif027@gmail.com)  
