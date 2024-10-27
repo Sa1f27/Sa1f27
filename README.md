@@ -1,8 +1,13 @@
 <div align="center"> 
-  
-<!--   <h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div> -->
+
+## 👋 Hello, I'm Huzaifah!
+- 🎓 Pursuing UG in Computer Science with a focus on AI and Machine Learning.
+- 👨‍💻 Aspiring Gen AI Developer | MLOps Engineer.
+ - Deep Learning & Neural Networks
+- MLOps tools like MLflow and DVC
+
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/huzaifah-27o3)
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
@@ -10,6 +15,35 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/huzaif027?theme=dark&font=Nunito&ext=heatmap" /> 
 </p>
 
+### 🔷 Programming & Markup Languages
+![Python](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/Code-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/Markup-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/Style-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔶 Libraries & Frameworks
+![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Library-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Library-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🟩 Web & Backend Frameworks
+![Django](https://img.shields.io/badge/Framework-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Framework-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🔹 Tools & Version Control
+![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 📚 Learning Platforms
+![Coursera](https://img.shields.io/badge/Course-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![edX](https://img.shields.io/badge/Course-edX-702598?style=for-the-badge&logo=edx&logoColor=white)
+![Udemy](https://img.shields.io/badge/Course-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
 
 
 <br/>
