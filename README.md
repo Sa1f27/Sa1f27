@@ -9,11 +9,7 @@
 
 ---
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/huzaifah-27o3)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaif027@gmail.com)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sa1f27)  
-<!--🌐 **Website:** [google.com](https://google.com)  -->
-📱 **Telegram:** [@Sa127](https://t.me/Sa1f27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/huzaifah-27o3)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaif027@gmail.com)  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sa1f27)  <!--🌐 **Website:** [google.com](https://google.com)  -->📱[Telegram](https://t.me/Sa1f27)
 
 
 <h2 align="center">Leetcode Info<h2>  
