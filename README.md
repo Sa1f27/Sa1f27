@@ -40,7 +40,7 @@
 ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### 📚 Learning Platforms
+### 📚 Certifications 
 ![Coursera](https://img.shields.io/badge/Course-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Course-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
 
