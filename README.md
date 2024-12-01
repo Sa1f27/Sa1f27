@@ -14,6 +14,8 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/huzaif027?theme=dark&font=Nunito&ext=heatmap" /> 
 </p>
 
+---
+
 ### 🔷 Programming & Markup Languages
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/Code-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
