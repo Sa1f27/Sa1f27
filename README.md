@@ -13,7 +13,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"/>
+<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"/>
 
 ## 🚀 About Me
 
