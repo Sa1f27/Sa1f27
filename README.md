@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Huzaifah!
 
-- 🎓 **Undergraduate in Computer Science** specializing in **AI and Machine Learning**
+- 🎓 **Undergraduate in Computer Science** specializing in **data Science AI and Machine Learning**
 - 👨‍💻 **Aspiring Gen AI Developer** | **MLOps Engineer**
 - 🚀 Passionate about **Deep Learning**, **Neural Networks**, and building scalable **MLOps pipelines**
 - 🛠️ Currently exploring **MLOps tools** like **MLflow** and more to streamline model deployment.
