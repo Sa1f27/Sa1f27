@@ -157,12 +157,6 @@ Currently working on next-generation AI systems for information retrieval, auton
   - 🔄 **Multi-Agent AI Frameworks**
   - 📊 **Intelligent Data Analysis Pipelines**
 
-  <p align="center">
-    <a href="https://github.com/Sa1f27?tab=followers">
-      <img src="https://img.shields.io/github/followers/Sa1f27?label=Followers&logo=GitHub&color=06B6D4&style=for-the-badge" alt="GitHub Followers" />
-    </a>
-  </p>
-
   <p>Open to discussing innovative AI projects and challenging technical problems!</p>
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:06B6D4&height=120&section=footer)
