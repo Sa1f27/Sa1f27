@@ -23,7 +23,6 @@ I build intelligent systems that solve real-world problems. My expertise lies at
 - 🤖 **LLM Application Development** - Fine-tuning, prompt engineering, context management
 - 🛠️ **Production AI Systems** - Scalable infrastructure, monitoring, MLOps pipelines
 - 🔄 **Multimodal AI** - Computer vision + NLP integration, intelligent document processing
-- 🧪 **AI Research Implementation** - Bridging academic advancements to practical applications
 
 Currently working on next-generation AI systems for information retrieval, autonomous agents, and knowledge management.
 
