@@ -142,6 +142,7 @@ Currently working on next-generation AI systems for information retrieval, auton
 - 🔗 Vector Database Optimization – Advanced Chroma techniques & multi-hop RAG for semantic search  
 - 🧰 Cloud-Native MLOps – Scalable ML deployment using MLflow, Kubernetes, and AWS  
 - 🔬 Research to Production – Implementing cutting-edge AI reasoning papers into real-world systems
+- 🧪 **AI Research Implementation** - Bridging academic advancements to practical applications
 
 ---
 
