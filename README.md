@@ -15,7 +15,7 @@
 
 <img align="right" alt="AI Developer" width="300" src="https://raw.githubusercontent.com/Sa1f27/Sa1f27/main/ai_animation.gif" />
 
-## 🧠 AI & ML Specialist
+## 🧠 AI & ML Developer
 
 I build intelligent systems that solve real-world problems. My expertise lies at the intersection of:
 
