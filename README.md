@@ -56,6 +56,7 @@ Currently working on next-generation AI systems for information retrieval, auton
         Faiss
       Data Processing
         Pandas
+        scipy
         NumPy
         Apache Spark
   ```
