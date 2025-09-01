@@ -58,7 +58,7 @@ Currently working on next-generation AI systems for information retrieval, auton
         Pandas
         scipy
         NumPy
-        Apache Spark
+        PySpark
   ```
 
   ### 🔧 Engineering & Development
