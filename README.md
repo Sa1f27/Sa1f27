@@ -71,7 +71,7 @@ Currently working on next-generation AI systems for information retrieval, auton
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
+        <br>React js
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
