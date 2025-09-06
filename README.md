@@ -1,6 +1,5 @@
-<div align="center">
-
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:6366F1&height=200&section=header&text=Mohammed%20Huzaifah&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Systems%20Engineer%20|%20Applied%20ML%20%26%20MLOps&descSize=20&descColor=FFFFFF&descAlignY=60&animation=fadeIn)
+<div align="center"> 
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:6366F1&height=200&section=header&text=Mohammed%20Huzaifah&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Developer%20|%20MLOps%20Engineer&descSize=20&descColor=FFFFFF&descAlignY=60&animation=fadeIn)
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Architecting+Knowledge-Enhanced+LLMs;Scaling+MLOps+Pipelines;Building+Real-World+AI+Systems" alt="Typing Animation" />
 
