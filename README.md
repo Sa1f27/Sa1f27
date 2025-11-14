@@ -1,9 +1,10 @@
+
 <div align="center">
 
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:6366F1&height=200&section=header&text=Mohammed%20Huzaifah&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Developer%20|%20MLOps%20Engineer&descSize=20&descColor=FFFFFF&descAlignY=60&animation=fadeIn)
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=500&lines=Building+Knowledge-Enhanced+LLM+Apps;Architecting+Production-Ready+AI+Systems;Innovating+with+RAG+%26+Knowledge+Graphs;Designing+Intelligent+ML+Pipelines" alt="Expertise" />
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=520&lines=Building+Knowledge-Enhanced+LLM+Apps;Architecting+Production-Ready+AI+Systems;Innovating+with+RAG+%26+Knowledge+Graphs;Designing+Intelligent+ML+Pipelines" />
   </p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifah-27o3)
@@ -13,153 +14,118 @@
 
 </div>
 
-<img align="right" alt="AI Developer" width="300" src="https://raw.githubusercontent.com/Sa1f27/Sa1f27/main/ai_animation.gif" />
+<img align="right" alt="AI Developer" width="280" src="https://raw.githubusercontent.com/Sa1f27/Sa1f27/main/ai_animation.gif" />
 
 ## 🧠 AI & ML Developer
 
-I build intelligent systems that solve real-world problems. My expertise lies at the intersection of:
+I design and deploy **production-grade AI systems** — from knowledge-augmented LLM apps to scalable MLOps pipelines.  
+My work focuses on:
 
-- 🔍 **Advanced RAG Architectures** - Knowledge graphs, multi-vector retrieval, hybrid search
-- 🤖 **LLM Application Development** - Fine-tuning, prompt engineering, context management
-- 🛠️ **Production AI Systems** - Scalable infrastructure, monitoring, MLOps pipelines
-- 🔄 **Multimodal AI** - Computer vision + NLP integration, intelligent document processing
+- 🔍 **Advanced RAG Architectures** — hybrid retrieval, multi-vector indexing, graph-enhanced search  
+- 🧠 **LLM Systems Engineering** — prompt/response orchestration, context optimization, fine-tuning  
+- 🛠️ **Operational AI** — Dockerized services, monitoring, cloud-native ML deployments  
+- 🎛️ **Multimodal Intelligence** — CV + NLP pipelines, OCR-driven understanding, document reasoning  
 
-Currently working on next-generation AI systems for information retrieval, autonomous agents, and knowledge management.
+I build systems that move past prototypes — **resilient, fast, and ready for real-world scale**.
 
 ---
 
 ## 💡 Core Competencies
 
+### 🧩 AI/ML & Data Intelligence
+
+```mermaid
+mindmap
+  root((AI Systems))
+    Retrieval-Augmented Generation
+      Vector Search
+      Multi-hop Retrieval
+      Knowledge Graphs
+    LLM Engineering
+      Prompt Design
+      Context Management
+      Fine-tuning
+      Agent Systems
+    Neural Models
+      Transformers
+      PyTorch
+      TensorFlow
+    Vision Systems
+      YOLO
+      OpenCV
+    Data Stack
+      Pandas
+      NumPy
+      Faiss/Chroma
+````
+
+---
+
+## 🔧 Engineering & Development Stack
+
 <div align="center">
-
-  ### 🧩 AI/ML & Data Infrastructure
-  
-  ```mermaid
-  mindmap
-    root((AI/ML))
-      LLM Technologies
-        RAG Architectures
-        Fine-tuning
-        Prompt Engineering
-        Agentic Systems
-      Computer Vision
-        Object Detection
-        YOLO
-        OpenCV
-      Neural Networks
-        TensorFlow
-        PyTorch
-        Transformers
-      Vector Databases
-        Pinecone
-        Chroma
-        Faiss
-      Data Processing
-        Pandas
-        scipy
-        NumPy
-        PySpark
-  ```
-
-  ### 🔧 Engineering & Development
-  
   <table>
     <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-        <br>FastAPI
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-        <br>AWS
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br>FastAPI</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
     </tr>
     <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-        <br>TensorFlow
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-        <br>PyTorch
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-        <br>Django
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-        <br>GCP
-      </td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br>PyTorch</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br>TensorFlow</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=opencv" width="48"/><br>OpenCV</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=gcp" width="48"/><br>GCP</td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 📊 Coding Stats
+## 📊 Development Stats
 
 <div align="center">
 
-  ### 🏆 LeetCode Progress
-  <img src="https://leetcard.jacoblin.cool/huzaif027?theme=nord&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+### 🏆 LeetCode Progress
 
-  ### 📈 GitHub Activity
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Sa1f27&theme=transparent&hide_border=true&mode=weekly&fire=06B6D4&ring=3B82F6&currStreakLabel=6366F1&sideLabels=06B6D4)](https://git.io/streak-stats)
-  
-  [![Contribution Chart](https://github-readme-activity-graph.vercel.app/graph?username=Sa1f27&theme=react-dark&hide_border=true&bg_color=0d1117&area=true&line=06B6D4&point=3B82F6&area_color=6366F1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://leetcard.jacoblin.cool/huzaif027?theme=nord&font=JetBrains%20Mono&ext=heatmap" />
+
+### 📈 GitHub Activity
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Sa1f27&theme=transparent&hide_border=true&mode=weekly&fire=06B6D4&ring=3B82F6&currStreakLabel=6366F1&sideLabels=06B6D4"/>
+</a>
 
 </div>
 
 ---
 
-## 🌱 Current Learning Path
- 
-- 🔗 Vector Database Optimization – Advanced Chroma techniques & multi-hop RAG for semantic search  
-- 🧰 Cloud-Native MLOps – Scalable ML deployment using MLflow, Kubernetes, and AWS  
-- 🔬 Research to Production – Implementing cutting-edge AI reasoning papers into real-world systems
-- 🧪 **AI Research Implementation** - Bridging academic advancements to practical applications
+## 🌱 Current Learning Focus
+
+* 🔗 **Vector Optimization & Multi-hop Retrieval**
+* 🚀 **Cloud-Native MLOps** (MLflow, K8s, AWS)
+* 🧬 **Graph-Augmented Reasoning Systems**
+* 📚 **Research → Production Implementation** of modern AI papers
 
 ---
 
 <div align="center">
 
-  ## 🤝 Let's Collaborate
+## 🤝 Collaboration
 
-  I'm actively seeking opportunities to collaborate on projects involving:
-  
-  - 🔍 **Knowledge-Enhanced LLM Systems**
-  - 🧠 **Graph-Based Reasoning Architectures**
-  - 🔄 **Multi-Agent AI Frameworks**
-  - 📊 **Intelligent Data Analysis Pipelines**
+Open to building:
 
-  <p>Open to discussing innovative AI projects and challenging technical problems!</p>
+* 🧠 LLM-driven knowledge systems
+* 🕸️ Graph-based reasoning architectures
+* 🤖 Agent workflows
+* 📊 Intelligent data and retrieval pipelines
 
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:06B6D4&height=120&section=footer)
+Let’s build something exceptional.
+
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:6366F1,50:3B82F6,100:06B6D4\&height=120\&section=footer)
 
 </div>
