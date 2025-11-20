@@ -29,35 +29,43 @@ My work focuses on:
 I build systems that move past prototypes — **resilient, fast, and ready for real-world scale**.
 
 ---
-
 ## 💡 Core Competencies
 
 ### 🧩 AI/ML & Data Intelligence
 
-```mermaid
-mindmap
-  root((AI Systems))
-    Retrieval-Augmented Generation
-      Vector Search
-      Multi-hop Retrieval
-      Knowledge Graphs
-    LLM Engineering
-      Prompt Design
-      Context Management
-      Fine-tuning
-      Agent Systems
-    Neural Models
-      Transformers
-      PyTorch
-      TensorFlow
-    Vision Systems
-      YOLO
-      OpenCV
-    Data Stack
-      Pandas
-      NumPy
-      Faiss/Chroma
-````
+<div align="center">
+  <table>
+    <tr>
+      <td width="260" align="center" style="padding: 20px; border-radius: 12px; background: #0d1117;">
+        <h3>🔍 RAG Systems</h3>
+        <p>Hybrid Search<br>Vector Indexing<br>Knowledge Graphs<br>Multi-hop Retrieval</p>
+      </td>
+      <td width="260" align="center" style="padding: 20px; border-radius: 12px; background: #0d1117;">
+        <h3>🧠 LLM Engineering</h3>
+        <p>Prompt Design<br>Context Optimization<br>Fine-tuning<br>Agent Workflows</p>
+      </td>
+      <td width="260" align="center" style="padding: 20px; border-radius: 12px; background: #0d1117;">
+        <h3>🧬 Neural Models</h3>
+        <p>Transformers<br>PyTorch<br>TensorFlow<br>Sequence Models</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="260" align="center" style="padding: 20px; border-radius: 12px; background: #0d1117;">
+        <h3>🖼️ Vision Systems</h3>
+        <p>YOLO<br>OpenCV<br>OCR Pipelines<br>Image Understanding</p>
+      </td>
+      <td width="260" align="center" style="padding: 20px; border-radius: 12px; background: #0d1117;">
+        <h3>📊 Data & Retrieval</h3>
+        <p>Chroma / Faiss<br>Embedding Optimization<br>Pandas / NumPy<br>Feature Engineering</p>
+      </td>
+      <td width="260" align="center" style="padding: 20px; border-radius: 12px; background: #0d1117;">
+        <h3>⚙️ MLOps</h3>
+        <p>Dockerized Pipelines<br>CI/CD<br>Monitoring<br>Cloud Deployments</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
