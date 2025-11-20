@@ -35,13 +35,15 @@ AI Developer experienced in building scalable, modular systems and end-to-end AI
 ### [MindCanvas](https://github.com/Sa1f27/MindCanvas) — AI Knowledge Graph System
 **🏆 Winner at Hackprix Hackathon S2**
 
-Converts browsing data into clustered knowledge graphs paired with a RAG-based learning assistant with semantic exploration and progress tracking.
+Transform browsing data into an intelligent, queryable knowledge graph. AI-powered system that analyzes web content, extracts relationships, and creates interactive visualizations for semantic exploration and learning progress tracking.
 
-- Built full-stack application + Chrome extension for one-click data export
-- Designed interactive visualizations with queryable nodes for relationship exploration
-- **Impact:** 3x faster retrieval, 75% improvement in identifying latent relationships
+- Built full-stack application with FastAPI backend and React frontend
+- Developed Chrome extension for seamless one-click data export and processing
+- Implemented RAG-powered chatbot for natural language queries about your knowledge
+- Designed interactive graph visualizations with Cytoscape.js featuring multiple layout algorithms
+- **Impact:** 3x faster retrieval, 75% improvement in identifying latent relationships across knowledge domains
 
-`Supabase` `LangChain` `Cytoscape.js` `FastAPI` `React` `OpenAI`
+`Supabase` `LangChain` `Cytoscape.js` `FastAPI` `React` `OpenAI` `Groq` `pgvector`
 
 ---
 
@@ -75,37 +77,20 @@ Enhanced AI-powered interview platform with resume parsing, cheat detection, and
 
 ## 💡 Technical Expertise
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-### AI/ML & LLMs
-RAG Systems • Vector Search  
-LangChain • Multi-Agent Systems  
-Prompt Engineering • Fine-tuning  
-Transformers • Embedding Optimization
+| 🔍 **AI/ML & LLMs** | ⚙️ **MLOps & API Development** |
+|:-------------------:|:-------------------------------:|
+| RAG Systems • Vector Search | FastAPI • REST • WebSocket • GraphQL |
+| LangChain • Multi-Agent Systems | Docker • MLflow • CI/CD |
+| Prompt Engineering • Fine-tuning | AWS (EC2, ECS, ECR) • Model Monitoring |
+| Transformers • Embedding Optimization | Nginx • GitHub Actions |
 
-### Computer Vision & NLP
-YOLO • OpenCV • Object Detection  
-OCR Pipelines • TensorFlow  
-Sequence Models • Scikit-learn
-
-</td>
-<td valign="top" width="50%">
-
-### MLOps & API Development
-FastAPI • REST • WebSocket • GraphQL  
-Docker • MLflow • CI/CD  
-AWS (EC2, ECS, ECR) • Model Monitoring
-
-### Data & Databases
-Pandas • NumPy • PySpark  
-PostgreSQL • MongoDB • Supabase  
-ChromaDB • Qdrant • Redis
-
-</td>
-</tr>
-</table>
+| 🎛️ **Computer Vision & NLP** | 📊 **Data & Databases** |
+|:----------------------------:|:-----------------------:|
+| YOLO • OpenCV • Object Detection | Pandas • NumPy • PySpark |
+| OCR Pipelines • TensorFlow | PostgreSQL • MongoDB • Supabase |
+| Sequence Models • Scikit-learn | ChromaDB • Qdrant • Redis |
 
 **Languages & Tools:** Python • SQL • JavaScript • Git • Shell Scripting
 
@@ -113,13 +98,16 @@ ChromaDB • Qdrant • Redis
 
 **Soft Skills:** Technical Communication • Team Leadership • Mentoring • Project Coordination • Pitching Ideas
 
+</div>
+
+
 ---
 
 ## 📊 Development Activity
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sa1f27?theme=dark&font=Nunito&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/huzaif027?theme=dark&font=Nunito&ext=activity)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sa1f27&theme=tokyonight&hide_border=true)
 
