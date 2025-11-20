@@ -107,9 +107,11 @@ Enhanced AI-powered interview platform with resume parsing, cheat detection, and
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/huzaif027?theme=dark&font=Nunito&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/huzaif027?theme=dark&font=Nunito&ext=heatmap)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sa1f27&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sa1f27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 </div>
 
