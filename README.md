@@ -11,25 +11,32 @@
 
 ---
 
-## 🚀 Quick Highlights
+## 🚀 At a Glance
 
-- 🤖 **Production Experience** — RAG systems, LLM engineering, MLOps pipelines
+- 🤖 **Production AI Experience** — RAG systems, LLM engineering, MLOps pipelines
+- 🏆 **Top Performer** — Recognized for delivering production-grade AI features
 - 🏅 **Hackathon Winner** — Multiple podium finishes in GenAI competitions
 - 📝 **Research Contributor** — Co-authored paper on Graph-Augmented RAG
 - 💻 **Active Builder** — 900+ commits, 200+ LeetCode, 50+ AI/ML projects
+- 🤝 **Team Leadership** — Experience leading teams, distributing work, and technical mentoring
 
 ---
 
 ## 🧠 About Me
 
-I build **production AI systems** — from RAG architectures to MLOps pipelines — with hands-on experience deploying features that serve thousands of daily users. My work spans:
+I build **production AI systems** — from RAG architectures to MLOps pipelines — with hands-on experience deploying features that serve thousands of daily users. My work combines technical depth with strong **communication and collaboration skills** to deliver impactful solutions.
 
+**What I Do:**
 - 🔍 **Advanced RAG Systems** — hybrid retrieval, vector search, knowledge graphs
-- 🧠 **LLM Engineering** — prompt orchestration, fine-tuning, multi-agent workflows, context optimization
-- 🛠️ **Production ML** — Dockerized services, CI/CD pipelines, cloud deployments, monitoring
-- 🎛️ **Multimodal AI** — Computer Vision (YOLO, OpenCV), NLP, OCR, document understanding
+- 🧠 **LLM Engineering** — prompt orchestration, fine-tuning, multi-agent workflows
+- 🛠️ **Production ML** — Dockerized services, CI/CD pipelines, cloud deployments
+- 🎛️ **Multimodal AI** — Computer Vision (YOLO, OpenCV), NLP, OCR pipelines
 
-I focus on building systems that are **optimized for performance and real-world deployment**.
+**How I Work:**
+- 🎯 Lead and collaborate with teams to architect scalable solutions
+- 📊 Communicate complex technical concepts to diverse audiences
+- 🚀 Mentor peers and distribute work effectively across projects
+- 💡 Bridge the gap between research and production deployment
 
 ---
 
@@ -38,10 +45,10 @@ I focus on building systems that are **optimized for performance and real-world 
 ### 🧠 [MindCanvas](https://github.com/Sa1f27) — AI Knowledge Graph System
 **🏆 Winner at Hackprix Hackathon S2**
 
-Converts browsing data into clustered and queryable knowledge graphs paired with a RAG-based learning assistant for semantic exploration and help students/professional learn and track progress.
+Converts browsing data into clustered knowledge graphs paired with a RAG-based learning assistant for semantic exploration and progress tracking.
 
 - Built full-stack application + Chrome extension for one-click data export
-- Designed interactive visualizations with interractable nodes for relationship exploration and learning and searching learnt data and find relevant new
+- Designed interactive visualizations with queryable nodes for relationship exploration
 - **Impact:** 3x faster retrieval, 75% improvement in identifying latent relationships
 
 `Supabase` `LangChain` `Cytoscape.js` `FastAPI` `React` `OpenAI`
@@ -61,14 +68,14 @@ End-to-end ML system predicting equipment failures using ensemble learning and i
 
 ---
 
-### 🎤 AI Interview Platform — Lanciere Technologies
+### 🎤 AI Interview Platform — Production Deployment
 
 Enhanced AI-powered interview platform with resume parsing, cheat detection, and LLM-driven assessments.
 
 - Built cheat detection module using YOLOv11, OpenCV, and voice analytics
 - Integrated STT/TTS and voice cloning with 90% transcription accuracy
 - Developed multi-agent AI assistants with persistent memory (LangChain, CrewAI)
-- Deployed LLM-based virtual assistant for real-time, context-aware answers during live classes
+- Deployed LLM-based virtual assistant for real-time, context-aware answers
 - Optimized API latency using request batching and caching strategies
 - **Impact:** 30% reduction in hiring cycles, 1000+ daily assessments processed
 
@@ -98,7 +105,7 @@ Sequence Models • Scikit-learn
 
 ### ⚙️ MLOps & Deployment
 Docker • FastAPI • MLflow  
-CI/CD • AWS 
+CI/CD • AWS (EC2, ECS, ECR)  
 Model Monitoring • Experiment Tracking
 
 ### 📊 Data & Databases
@@ -111,6 +118,8 @@ ChromaDB • Qdrant • Redis
 </table>
 
 **Languages & Tools:** Python • SQL • JavaScript • React • Git • Shell Scripting • Postman
+
+**Soft Skills:** Technical Communication • Team Leadership • Mentoring • Project Coordination • Pitching Ideas
 
 ---
 
@@ -130,12 +139,12 @@ ChromaDB • Qdrant • Redis
 
 ## 🏆 Achievements & Recognition
 
-- 🥇 **Top Intern Recognition** at Internship for delivering production-grade AI features
-- 🏅 **Attended 7+ Hackathons** across competitions (GenAI, MLOps) with Podium Finishes
-- 📝 **6+ Technical Articles Written** on AI/ML topics on Medium
-- 📄 **Co-authored Research Paper** on Graph-Augmented RAG systems
-- 💻 **900+ GitHub Commits** across 50+ AI/ML projects
-- 🧩 **200+ LeetCode Problems** solved with consistent practice
+- 🥇 **Top Performer Recognition** — Delivered production-grade AI features serving 1000+ daily users
+- 🏅 **7+ Hackathons** — Multiple podium finishes in GenAI and MLOps competitions
+- 📝 **6+ Technical Articles** — Published on AI/ML topics on Medium
+- 📄 **Research Publication** — Co-authored paper on Graph-Augmented RAG systems
+- 💻 **900+ GitHub Commits** — Across 50+ AI/ML projects
+- 🧩 **200+ LeetCode Problems** — Consistent problem-solving practice
 
 ---
 
@@ -157,7 +166,7 @@ I'm open to collaborating on:
 - 🤖 Production ML pipelines & MLOps infrastructure
 - 📊 Intelligent retrieval & data processing systems
 
-**Currently seeking full-time opportunities** in AI & Python/Backend roles.
+**Open to full-time opportunities and freelance projects** in AI/ML and Backend Engineering.
 
 📫 Reach out: [huzaif027@gmail.com](mailto:huzaif027@gmail.com) | [LinkedIn](https://www.linkedin.com/in/huzaifah-27o3) | [Portfolio](https://portfolio-huz.vercel.app)
 
