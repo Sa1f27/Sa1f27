@@ -18,7 +18,7 @@ AI Developer experienced in building scalable, modular systems and end-to-end AI
 **What I Do:**
 - Advanced RAG Systems — hybrid retrieval, vector search, knowledge graphs
 - LLM Engineering — prompt orchestration, fine-tuning, multi-agent workflows
-- API Development — REST, WebSocket, GraphQL using FastAPI with production-grade design
+- API Development — REST, WebSocket, GraphQL using FastAPI with production grade design
 - Production ML — Dockerized services, CI/CD pipelines, cloud deployments
 - Multimodal AI — Computer Vision (YOLO, OpenCV), NLP, OCR pipelines
 
