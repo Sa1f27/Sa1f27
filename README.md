@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-AI Developer experienced in building scalable, modular systems and end-to-end AI pipelines. Skilled in applying LLMs, NLP, RAG, and Generative AI to production-focused projects. Developed AI systems using vector search, REST/WebSocket APIs, and containerized cloud deployment with an emphasis on reliable architecture and efficient workflows.
+AI Systems Developer experienced in building scalable, modular systems and end-to-end AI pipelines. Skilled in applying LLMs, NLP, RAG, and Generative AI to production-focused projects. Developed AI systems using vector search, REST/WebSocket APIs, and containerized cloud deployment with an emphasis on reliable architecture and efficient workflows.
 
 **What I Do:**
 - Advanced RAG Systems — hybrid retrieval, vector search, knowledge graphs
