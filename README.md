@@ -32,6 +32,17 @@ Voice agents and backend for [Callixo](https://www.callixo.ai), an AI calling pl
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://www.callixo.ai"><img src="https://huzaifah-dev.vercel.app/projects/callixo-dashboard.png" alt="Callixo CRM dashboard screenshot" width="100%" /></a>
+      <h3><a href="https://www.callixo.ai">Callixo</a> · <em>built at Crypto Association Georgia</em></h3>
+      Voice agents and backend for an AI calling platform. Provider-agnostic, with machine detection and autoscaling. 50,000+ leads a day, 100+ concurrent calls.
+      <br /><br />
+      <b>Private codebase</b> · <a href="https://www.callixo.ai">Live site</a>
+      <br /><br />
+      <code>LiveKit</code> <code>Retell AI</code> <code>FreeSWITCH</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>AWS</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Sa1f27/MindCanvas"><img src="https://huzaifah-dev.vercel.app/projects/mindcanvas-ss-2.png" alt="MindCanvas screenshot" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/MindCanvas">MindCanvas</a></h3>
