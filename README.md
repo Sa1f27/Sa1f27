@@ -33,11 +33,11 @@ Hyderabad, Feb to Aug 2025
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sa1f27/MindCanvas"><img src="https://huzaifah-dev.vercel.app/projects/mindcanvas-ss-2.png" alt="MindCanvas knowledge graph screenshot" width="100%" /></a>
+      <a href="https://github.com/Sa1f27/MindCanvas"><img src="https://huzaifah-dev.vercel.app/projects/mindcanvas-ss-2.png?v=2" alt="MindCanvas: a 3D knowledge map of pages in glowing clusters" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/MindCanvas">MindCanvas</a></h3>
-      Turns scattered web data into a clustered, queryable knowledge graph with a RAG assistant on top. Published as a <a href="https://ijesr.org/index.php/ijesr/article/view/1635">first-author paper</a>.
+      Turns what you read on the web into a 3D knowledge map. Pages cluster into areas, and answers cite your own pages and light them up on the map. Published as a <a href="https://ijesr.org/index.php/ijesr/article/view/1635">first-author paper</a>.
       <br /><br />
-      <code>FastAPI</code> <code>LangChain</code> <code>Supabase</code> <code>React</code>
+      <code>FastAPI</code> <code>pgvector</code> <code>RAG</code> <code>TypeScript</code> <code>three.js</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://www.callixo.ai"><img src="https://huzaifah-dev.vercel.app/projects/callixo-landing.webp" alt="Callixo screenshot" width="100%" /></a>
