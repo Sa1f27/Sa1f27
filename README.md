@@ -1,27 +1,27 @@
-<img src="https://huzaifah-dev.vercel.app/github-banner.png" alt="Huzaifah, AI engineer specializing in voice agents" width="100%" />
+<img src="https://huzaifah-dev.vercel.app/github-banner.png?v=2" alt="Huzaifah. AI engineer: I build AI agents, LLM systems and the backends that run them in production. Specialty: voice agents." width="100%" />
 
-I design and ship production AI systems, from LLM and RAG applications to the backends that run them at scale. I'm currently building the voice agents and backend for an AI calling platform that dials 50,000+ leads a day.
+I build AI agents, LLM systems and the backends that run them in production. My specialty is voice agents, AI that holds real phone conversations at scale. Based in Hyderabad, India, working remotely.
 
-[Portfolio](https://huzaifah-dev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/huzaifah27) · [Email](mailto:huzaif027@gmail.com) · [Medium](https://medium.com/@huzaif027)
+You can find more on my [portfolio](https://huzaifah-dev.vercel.app), [LinkedIn](https://www.linkedin.com/in/huzaifah27) and [Medium](https://medium.com/@huzaif027), or reach me by [email](mailto:huzaif027@gmail.com).
 
 <br />
 
-<img src="https://huzaifah-dev.vercel.app/github-capabilities.png" alt="What I build. Voice agents, my specialty: AI agents that hold real phone and web conversations, from telephony and real-time speech to turn-taking, machine detection and scale (50,000+ leads a day, 100+ concurrent calls). LLM, RAG and ML: assistants and agents grounded in your own data, retrieval and knowledge graphs, and ML from training to deployment. Production systems: backends built for scale and low latency, with async APIs, autoscaling, concurrency control, CI/CD and monitoring on AWS." width="100%" />
+<img src="https://huzaifah-dev.vercel.app/github-capabilities.png?v=2" alt="What I build. AI agents and LLM systems: agents that use tools and act on real systems, tool calling, MCP, multi-agent workflows, RAG over your own data, and ML models from training to deployment. Voice agents, my specialty: agents that hold real phone and web conversations, with telephony, real-time speech, turn-taking and detection of voicemail, IVRs and call screeners. Production AI infrastructure: backends and agent fleets that scale with load, with async APIs, autoscaling on custom metrics, concurrency limits, CI/CD and monitoring on AWS." width="100%" />
 
 ## Experience
 
-### Crypto Association Georgia
-**AI Engineer** · Remote, Georgia · Jan 2026 to now
+### AI Engineer, Crypto Association Georgia
+Remote, Jan 2026 to now
 
-Voice agents and backend for [Callixo](https://www.callixo.ai), an AI calling platform dialing 50,000+ leads a day.
+Built the voice agents and backend for [Callixo](https://www.callixo.ai), the company's outbound AI calling platform: 50,000+ leads dialed a day, 100+ concurrent live calls, sub-second turns.
 
-- Designed it provider-agnostic: one CRM, several voice engines. Built and ran it on LiveKit, Retell AI, FreeSWITCH with a custom PJSIP media bot, and SignalWire, then kept what won on cost and conversion.
+- Designed it provider-agnostic: one CRM, several voice engines. Built and ran it on LiveKit, Retell AI, FreeSWITCH with a custom PJSIP media bot, and SignalWire, then kept what worked best.
 - Built the scaling: an EC2 Auto Scaling Group that grows and shrinks the agent fleet on a custom load metric, a warm pool for fast scale-out, and a drain hook so scaling down never drops a live call.
 - Machine detection for voicemail, IVRs and call screeners that runs alongside the call and leans toward keeping real people on the line.
-- FastAPI and PostgreSQL backend, Next.js dashboards, shipped with Docker and GitHub Actions to AWS and monitored with Prometheus and Grafana.
+- FastAPI and PostgreSQL backend and Next.js dashboards, shipped with Docker and GitHub Actions to AWS and monitored with Prometheus and Grafana.
 
-### Lanciere Technologies
-**AI Developer Intern** · Hyderabad · Feb to Aug 2025
+### AI Developer Intern, Lanciere Technologies
+Hyderabad, Feb to Aug 2025
 
 - Took an AI interview platform to voice-to-voice interviews on OpenAI, Llama and Whisper, cutting hiring cycles by 30%.
 - Cheat detection with YOLOv11, OpenCV and voice analytics inside the live interview pipeline.
@@ -32,24 +32,22 @@ Voice agents and backend for [Callixo](https://www.callixo.ai), an AI calling pl
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
-      <a href="https://www.callixo.ai"><img src="https://huzaifah-dev.vercel.app/projects/callixo-dashboard.png" alt="Callixo CRM dashboard screenshot" width="100%" /></a>
-      <h3><a href="https://www.callixo.ai">Callixo</a> · <em>built at Crypto Association Georgia</em></h3>
-      Voice agents and backend for an AI calling platform. Provider-agnostic, with machine detection and autoscaling. 50,000+ leads a day, 100+ concurrent calls.
-      <br /><br />
-      <b>Private codebase</b> · <a href="https://www.callixo.ai">Live site</a>
-      <br /><br />
-      <code>LiveKit</code> <code>Retell AI</code> <code>FreeSWITCH</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>AWS</code>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sa1f27/MindCanvas"><img src="https://huzaifah-dev.vercel.app/projects/mindcanvas-ss-2.png" alt="MindCanvas screenshot" width="100%" /></a>
+      <a href="https://github.com/Sa1f27/MindCanvas"><img src="https://huzaifah-dev.vercel.app/projects/mindcanvas-ss-2.png" alt="MindCanvas knowledge graph screenshot" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/MindCanvas">MindCanvas</a></h3>
-      Turns scattered web data into a queryable knowledge graph with a RAG assistant on top. Published as a <a href="https://ijesr.org/index.php/ijesr/article/view/1635">first-author paper</a>.
+      Turns scattered web data into a clustered, queryable knowledge graph with a RAG assistant on top. Published as a <a href="https://ijesr.org/index.php/ijesr/article/view/1635">first-author paper</a>.
       <br /><br />
       <code>FastAPI</code> <code>LangChain</code> <code>Supabase</code> <code>React</code>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://www.callixo.ai"><img src="https://huzaifah-dev.vercel.app/projects/callixo-landing.webp" alt="Callixo screenshot" width="100%" /></a>
+      <h3><a href="https://www.callixo.ai">Callixo</a></h3>
+      Voice agents and backend I built at Crypto Association Georgia for its AI calling platform. Provider-agnostic, with machine detection and autoscaling. The codebase is private.
+      <br /><br />
+      <code>LiveKit</code> <code>Retell AI</code> <code>FreeSWITCH</code> <code>FastAPI</code> <code>AWS</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Sa1f27/Live-Agent"><img src="https://huzaifah-dev.vercel.app/projects/ai-conversational-agent.jpg" alt="Live Agent screenshot" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/Live-Agent">Live Agent</a></h3>
@@ -57,8 +55,6 @@ Voice agents and backend for [Callixo](https://www.callixo.ai), an AI calling pl
       <br /><br />
       <code>AudioWorklet</code> <code>Gemini ADK</code> <code>WebSockets</code> <code>FastAPI</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Sa1f27/predictive-maintenance-mlops"><img src="https://huzaifah-dev.vercel.app/projects/predictive-ss-2.png" alt="Predictive Maintenance screenshot" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/predictive-maintenance-mlops">Predictive Maintenance</a></h3>
@@ -66,6 +62,8 @@ Voice agents and backend for [Callixo](https://www.callixo.ai), an AI calling pl
       <br /><br />
       <code>MLflow</code> <code>scikit-learn</code> <code>Docker</code> <code>AWS ECS</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Sa1f27/HireSense-Final"><img src="https://huzaifah-dev.vercel.app/projects/hiresense.jpg" alt="HireSense screenshot" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/HireSense-Final">HireSense</a></h3>
@@ -73,20 +71,26 @@ Voice agents and backend for [Callixo](https://www.callixo.ai), an AI calling pl
       <br /><br />
       <code>Next.js</code> <code>Supabase</code> <code>Whisper</code> <code>ElevenLabs</code>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sa1f27/GraphRAG"><img src="https://huzaifah-dev.vercel.app/projects/graph-rag.jpg" alt="Graph RAG screenshot" width="100%" /></a>
+      <h3><a href="https://github.com/Sa1f27/GraphRAG">Graph RAG</a></h3>
+      Retrieval over medical literature combining vector search with a MeSH knowledge graph for explainable answers.
+      <br /><br />
+      <code>Weaviate</code> <code>RDFLib</code> <code>Databricks</code> <code>OpenAI</code>
+    </td>
   </tr>
 </table>
 
-More in the [full project list](https://huzaifah-dev.vercel.app/projects).
+More in the [full project list](https://huzaifah-dev.vercel.app/projects), and the voice work in depth on [voice agents](https://huzaifah-dev.vercel.app/voice).
 
 ## Stack
 
 | | |
 | --- | --- |
-| **Voice** | LiveKit, Retell AI, SIP/RTP, FreeSWITCH, PJSIP, SignalWire, Twilio, STT/TTS, AMD |
+| **AI** | LLMs, AI agents, tool calling, MCP, RAG, LangGraph, LangChain, CrewAI, Qdrant, Transformers, OpenCV |
+| **Voice** | LiveKit, Retell AI, SIP/RTP, FreeSWITCH, PJSIP, SignalWire, Twilio, STT/TTS, speech-to-speech models |
 | **Backend** | Python, asyncio, FastAPI, PostgreSQL, Redis, WebSockets, REST |
-| **AI** | LLMs, RAG, LangGraph, LangChain, CrewAI, Qdrant, Transformers, OpenCV |
-| **Infra** | AWS (EC2, RDS, S3, Auto Scaling, Elastic IP), Docker, Nginx, GitHub Actions, Prometheus, Grafana |
-| **Production** | EC2 Auto Scaling on custom metrics, warm pools, drain hooks, concurrency limits, connection pooling, Redis caching and queues |
+| **Infra** | AWS (EC2, RDS, S3, Auto Scaling), Docker, Nginx, GitHub Actions, Prometheus, Grafana |
 | **Frontend** | TypeScript, React, Next.js, Tailwind |
 
 ## Highlights
@@ -94,8 +98,8 @@ More in the [full project list](https://huzaifah-dev.vercel.app/projects).
 - **First-author paper:** *An AI system for transforming scattered web data into an interactive, queryable knowledge graph*, International Journal of Engineering & Science Research, 2026.
 - **Hackathons:** seven, including the OpenAI Buildathon and Google's Agentic AI Hackathon, with two podium finishes.
 - **Practice:** 291 LeetCode problems solved and six technical articles on [Medium](https://medium.com/@huzaif027).
-- **Education:** B.E. Computer Science (AI & ML), First Division with Distinction.
+- **Education:** B.E. Computer Science (AI & ML), First Division with Distinction, CGPA 8.48.
 
 <br />
 
-Open to full-time AI engineering roles and freelance projects. The fastest way to reach me is [email](mailto:huzaif027@gmail.com).
+The fastest way to reach me is [email](mailto:huzaif027@gmail.com). I reply within a day.
