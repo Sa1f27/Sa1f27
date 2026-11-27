@@ -56,11 +56,11 @@ Hyderabad, Feb to Aug 2025
       <code>AudioWorklet</code> <code>Gemini ADK</code> <code>WebSockets</code> <code>FastAPI</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sa1f27/predictive-maintenance-mlops"><img src="https://huzaifah-dev.vercel.app/projects/predictive-ss-2.png" alt="Predictive Maintenance screenshot" width="100%" /></a>
+      <a href="https://github.com/Sa1f27/predictive-maintenance-mlops"><img src="https://huzaifah-dev.vercel.app/projects/predmaint-fleet.webp" alt="Predictive Maintenance: a live fleet view of each truck's failure risk and recommended workshop action" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/predictive-maintenance-mlops">Predictive Maintenance</a></h3>
-      End-to-end MLOps pipeline predicting equipment failure from sensor data. 91.2% accuracy, automated retraining and CI/CD.
+      Predicts engine failures across a SCANIA truck fleet from real sensor data and picks workshop alerts by maintenance cost, saving 26%. A live plant on industrial standards, gated retraining and an AI copilot.
       <br /><br />
-      <code>MLflow</code> <code>scikit-learn</code> <code>Docker</code> <code>AWS ECS</code>
+      <code>Survival models</code> <code>MLflow</code> <code>Dagster</code> <code>OPC UA</code> <code>TimescaleDB</code> <code>React</code>
     </td>
   </tr>
   <tr>
