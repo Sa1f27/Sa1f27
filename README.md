@@ -35,14 +35,14 @@ Hyderabad, Feb to Aug 2025
     <td width="50%" valign="top">
       <a href="https://www.callixo.ai"><img src="https://huzaifah-dev.vercel.app/projects/callixo-landing.webp" alt="Callixo screenshot" width="100%" /></a>
       <h3><a href="https://www.callixo.ai">Callixo</a></h3>
-      Voice agents and backend I built at Crypto Association Georgia for its AI calling platform. Provider-agnostic, with machine detection and autoscaling. The codebase is private.
+      Production voice agents and backend I built at Crypto Association Georgia for its AI calling platform: LiveKit and FreeSWITCH agents, answering machine detection and autoscaling on AWS. 100+ concurrent calls with sub-second turns. The codebase is private.
       <br /><br />
       <code>LiveKit</code> <code>Retell AI</code> <code>FreeSWITCH</code> <code>FastAPI</code> <code>AWS</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Sa1f27/MindCanvas"><img src="https://huzaifah-dev.vercel.app/projects/mindcanvas-map.webp?v=4" alt="MindCanvas: a 3D knowledge map of pages in glowing clusters" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/MindCanvas">MindCanvas</a></h3>
-      Turns what you read on the web into a 3D knowledge map. Pages cluster into areas, and answers cite your own pages and light them up on the map. Published as a <a href="https://ijesr.org/index.php/ijesr/article/view/1635">first-author paper</a>.
+      RAG over the pages you read: each page is embedded, clustered and linked into a 3D knowledge graph, and every answer cites its source pages. Published as a <a href="https://ijesr.org/index.php/ijesr/article/view/1635">first-author paper</a>.
       <br /><br />
       <code>FastAPI</code> <code>pgvector</code> <code>RAG</code> <code>TypeScript</code> <code>three.js</code>
     </td>
@@ -51,30 +51,30 @@ Hyderabad, Feb to Aug 2025
     <td width="50%" valign="top">
       <a href="https://github.com/Sa1f27/Live-Agent"><img src="https://huzaifah-dev.vercel.app/projects/live-agent-call.webp" alt="Live Agent: a voice conversation, with the project it is talking about on screen and its reply time" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/Live-Agent">Live Agent</a></h3>
-      A voice agent you talk to in the browser, on LiveKit. It answers as me, shows the project it is talking about and times every reply. <a href="https://huzaifah-dev.vercel.app/voice">Try it live</a>.
+      A real-time voice agent on LiveKit Agents and Gemini Live that answers as me. Tool calls open the project under discussion, every reply is timed, and an LLM judge tests its answers in CI. <a href="https://huzaifah-dev.vercel.app/voice">Try it live</a>.
       <br /><br />
       <code>LiveKit Agents</code> <code>WebRTC</code> <code>Gemini Live</code> <code>React</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sa1f27/predictive-maintenance-mlops"><img src="https://huzaifah-dev.vercel.app/projects/predmaint-fleet.webp?v=3" alt="Predictive Maintenance: a live fleet view of each truck's failure risk and recommended workshop action" width="100%" /></a>
+      <a href="https://github.com/Sa1f27/predictive-maintenance-mlops"><img src="https://huzaifah-dev.vercel.app/projects/predmaint-models.webp" alt="Predictive Maintenance: the champion and challenger models, the promotion gate and drift monitoring" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/predictive-maintenance-mlops">Predictive Maintenance</a></h3>
-      Predicts engine failures across a SCANIA truck fleet from real sensor data and picks workshop alerts by maintenance cost, saving 26%. A live plant on industrial standards, gated retraining and an AI copilot.
+      End-to-end MLOps on real fleet sensor data: survival models predict component failure, with an MLflow registry, a gated champion and challenger, drift-triggered retraining and Dagster pipelines. Cuts maintenance cost 26% on held-out data.
       <br /><br />
-      <code>Survival models</code> <code>MLflow</code> <code>Dagster</code> <code>OPC UA</code> <code>TimescaleDB</code> <code>React</code>
+      <code>LightGBM</code> <code>Survival analysis</code> <code>MLflow</code> <code>Dagster</code> <code>FastAPI</code> <code>Docker</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Sa1f27/HireSense-Final"><img src="https://huzaifah-dev.vercel.app/projects/hiresense.jpg" alt="HireSense screenshot" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/HireSense-Final">HireSense</a></h3>
-      Candidate verification and voice interviews: cross-platform profile checks, automated reference calls, scored transcripts.
+      AI voice agents that interview candidates and call their references, with LLM scoring of the transcripts and cross-checks of CV, LinkedIn and GitHub.
       <br /><br />
       <code>Next.js</code> <code>Supabase</code> <code>Whisper</code> <code>ElevenLabs</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Sa1f27/GraphRAG"><img src="https://huzaifah-dev.vercel.app/projects/graph-rag.jpg" alt="Graph RAG screenshot" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/GraphRAG">Graph RAG</a></h3>
-      Retrieval over medical literature combining vector search with a MeSH knowledge graph for explainable answers.
+      Hybrid retrieval for medical question answering: vector search refined by a MeSH knowledge graph, so every answer traces back to its sources.
       <br /><br />
       <code>Weaviate</code> <code>RDFLib</code> <code>Databricks</code> <code>OpenAI</code>
     </td>
