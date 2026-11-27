@@ -49,11 +49,11 @@ Hyderabad, Feb to Aug 2025
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sa1f27/Live-Agent"><img src="https://huzaifah-dev.vercel.app/projects/live-agent.webp" alt="Live Agent: talk to my voice agent in the browser" width="100%" /></a>
+      <a href="https://github.com/Sa1f27/Live-Agent"><img src="https://huzaifah-dev.vercel.app/projects/live-agent-call.webp" alt="Live Agent: a voice conversation, with the project it is talking about on screen and its reply time" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/Live-Agent">Live Agent</a></h3>
-      Speech-to-speech agent that holds unscripted voice conversations in the browser, streaming PCM over WebSockets. <a href="https://live-agent-eoj3.onrender.com">Try it live</a>.
+      A voice agent you talk to in the browser, on LiveKit. It answers as me, shows the project it is talking about and times every reply. <a href="https://live-agent-eoj3.onrender.com">Try it live</a>.
       <br /><br />
-      <code>AudioWorklet</code> <code>Gemini ADK</code> <code>WebSockets</code> <code>FastAPI</code>
+      <code>LiveKit Agents</code> <code>WebRTC</code> <code>Gemini Live</code> <code>React</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Sa1f27/predictive-maintenance-mlops"><img src="https://huzaifah-dev.vercel.app/projects/predmaint-fleet.webp?v=3" alt="Predictive Maintenance: a live fleet view of each truck's failure risk and recommended workshop action" width="100%" /></a>
