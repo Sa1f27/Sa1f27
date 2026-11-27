@@ -51,7 +51,7 @@ Hyderabad, Feb to Aug 2025
     <td width="50%" valign="top">
       <a href="https://github.com/Sa1f27/Live-Agent"><img src="https://huzaifah-dev.vercel.app/projects/live-agent-call.webp" alt="Live Agent: a voice conversation, with the project it is talking about on screen and its reply time" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/Live-Agent">Live Agent</a></h3>
-      A voice agent you talk to in the browser, on LiveKit. It answers as me, shows the project it is talking about and times every reply. <a href="https://live-agent-eoj3.onrender.com">Try it live</a>.
+      A voice agent you talk to in the browser, on LiveKit. It answers as me, shows the project it is talking about and times every reply. <a href="https://huzaifah-dev.vercel.app/voice">Try it live</a>.
       <br /><br />
       <code>LiveKit Agents</code> <code>WebRTC</code> <code>Gemini Live</code> <code>React</code>
     </td>
