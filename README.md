@@ -40,7 +40,7 @@ Hyderabad, Feb to Aug 2025
       <code>LiveKit</code> <code>Retell AI</code> <code>FreeSWITCH</code> <code>FastAPI</code> <code>AWS</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sa1f27/MindCanvas"><img src="https://huzaifah-dev.vercel.app/projects/mindcanvas-map.webp?v=3" alt="MindCanvas: a 3D knowledge map of pages in glowing clusters" width="100%" /></a>
+      <a href="https://github.com/Sa1f27/MindCanvas"><img src="https://huzaifah-dev.vercel.app/projects/mindcanvas-map.webp?v=4" alt="MindCanvas: a 3D knowledge map of pages in glowing clusters" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/MindCanvas">MindCanvas</a></h3>
       Turns what you read on the web into a 3D knowledge map. Pages cluster into areas, and answers cite your own pages and light them up on the map. Published as a <a href="https://ijesr.org/index.php/ijesr/article/view/1635">first-author paper</a>.
       <br /><br />
@@ -49,14 +49,14 @@ Hyderabad, Feb to Aug 2025
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sa1f27/Live-Agent"><img src="https://huzaifah-dev.vercel.app/projects/ai-conversational-agent.jpg" alt="Live Agent screenshot" width="100%" /></a>
+      <a href="https://github.com/Sa1f27/Live-Agent"><img src="https://huzaifah-dev.vercel.app/projects/live-agent.webp" alt="Live Agent: talk to my voice agent in the browser" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/Live-Agent">Live Agent</a></h3>
       Speech-to-speech agent that holds unscripted voice conversations in the browser, streaming PCM over WebSockets. <a href="https://live-agent-eoj3.onrender.com">Try it live</a>.
       <br /><br />
       <code>AudioWorklet</code> <code>Gemini ADK</code> <code>WebSockets</code> <code>FastAPI</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sa1f27/predictive-maintenance-mlops"><img src="https://huzaifah-dev.vercel.app/projects/predmaint-fleet.webp" alt="Predictive Maintenance: a live fleet view of each truck's failure risk and recommended workshop action" width="100%" /></a>
+      <a href="https://github.com/Sa1f27/predictive-maintenance-mlops"><img src="https://huzaifah-dev.vercel.app/projects/predmaint-fleet.webp?v=3" alt="Predictive Maintenance: a live fleet view of each truck's failure risk and recommended workshop action" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/predictive-maintenance-mlops">Predictive Maintenance</a></h3>
       Predicts engine failures across a SCANIA truck fleet from real sensor data and picks workshop alerts by maintenance cost, saving 26%. A live plant on industrial standards, gated retraining and an AI copilot.
       <br /><br />
