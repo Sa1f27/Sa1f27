@@ -40,7 +40,7 @@ Hyderabad, Feb to Aug 2025
       <code>LiveKit</code> <code>Retell AI</code> <code>FreeSWITCH</code> <code>FastAPI</code> <code>AWS</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sa1f27/MindCanvas"><img src="https://huzaifah-dev.vercel.app/projects/mindcanvas-ss-2.png?v=2" alt="MindCanvas: a 3D knowledge map of pages in glowing clusters" width="100%" /></a>
+      <a href="https://github.com/Sa1f27/MindCanvas"><img src="https://huzaifah-dev.vercel.app/projects/mindcanvas-map.webp?v=3" alt="MindCanvas: a 3D knowledge map of pages in glowing clusters" width="100%" /></a>
       <h3><a href="https://github.com/Sa1f27/MindCanvas">MindCanvas</a></h3>
       Turns what you read on the web into a 3D knowledge map. Pages cluster into areas, and answers cite your own pages and light them up on the map. Published as a <a href="https://ijesr.org/index.php/ijesr/article/view/1635">first-author paper</a>.
       <br /><br />
